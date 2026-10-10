@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Mukta Malar', sans-serif;
+  background-color: #f4fdf4; /* Light green agriculture theme */
+  color: #333;
+}
